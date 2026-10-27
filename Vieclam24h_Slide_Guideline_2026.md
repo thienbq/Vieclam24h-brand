@@ -1,16 +1,17 @@
 # Vieclam24h — Quy chuẩn slide thuyết trình 2026
 
-> Phiên bản: **1.0 · Tháng 10/2026**
+> Phiên bản: **1.1 · Tháng 10/2026**
 > Áp dụng cho mọi file thuyết trình mang tên Vieclam24h: báo cáo thị trường, đề xuất, kế hoạch, họp nội bộ, thuyết trình với đối tác.
 > Dựa trên **Brand Guideline 2026** và file mẫu **Vieclam24h_Slide_Template.pptx**.
 
 ---
 
-## 0. Ba quy tắc bắt buộc
+## 0. Bốn quy tắc bắt buộc
 
 1. **Không dùng AI để làm slide → bắt buộc dùng file mẫu** `Vieclam24h_Slide_Template.pptx`. Không tự tạo slide trắng, không dùng theme có sẵn của Google Slides / PowerPoint.
-2. **Có dùng AI → đính kèm file quy chuẩn này** để AI soạn nội dung đúng bố cục, rồi đổ nội dung vào file mẫu (xem mục 9).
+2. **Có dùng AI → đính kèm file quy chuẩn này** để AI xếp nội dung vào đúng slide mẫu, rồi đổ nội dung vào file mẫu (xem mục 9).
 3. **Tên thương hiệu luôn viết là `Vieclam24h`**: chữ V viết hoa, liền, không dấu.
+4. **AI không được sửa nội dung khi áp template.** AI chỉ chọn slide mẫu và xếp chữ vào đúng chỗ: giữ nguyên **từng chữ, từng con số, thứ tự ý** của bản gốc. Thấy nội dung có vấn đề (sai tên thương hiệu, thiếu nguồn, quá dài, số liệu vênh…) thì **ghi vào danh sách Đề xuất riêng**, không tự sửa. Người làm slide đọc đề xuất và tự quyết định.
 
 | ✅ Đúng | ❌ Sai |
 |---|---|
@@ -219,38 +220,58 @@ Các dạng phức tạp (biểu đồ, quy trình, bảng…) → **nhân bản
 
 ## 9. Làm slide với AI (ChatGPT, Gemini, Claude)
 
-AI **soạn nội dung và dàn ý**. **Thiết kế vẫn làm trong file mẫu.** Không dùng slide do AI tự thiết kế để gửi đi.
+**Nguyên tắc: AI xếp chỗ, không sửa chữ.**
+AI chọn slide mẫu phù hợp và chia nội dung vào đúng ô. **Nội dung gốc giữ nguyên 100%**: không viết lại, không cắt bớt, không thêm ý, không làm tròn số, không đổi thứ tự. Mọi góp ý của AI nằm ở **phần Đề xuất riêng** và chỉ được áp dụng khi người làm slide đồng ý.
+Thiết kế vẫn làm trong file mẫu. Không dùng slide do AI tự thiết kế để gửi đi.
+
+| AI được làm | AI không được làm |
+|---|---|
+| Chọn slide mẫu phù hợp (mục 6) | Viết lại câu, đổi từ, "làm mượt" văn |
+| Chia nội dung dài sang nhiều slide (giữ nguyên chữ) | Cắt bớt ý cho vừa slide |
+| Đặt từng đoạn vào đúng ô: tiêu đề, nội dung, số liệu, nguồn | Thêm số liệu, ví dụ, câu chữ không có trong bản gốc |
+| Ghi Đề xuất cho chỗ có vấn đề | Tự sửa lỗi, kể cả lỗi chính tả hay sai tên thương hiệu |
 
 **Bước 1:** Đính kèm file này (`Vieclam24h_Slide_Guideline_2026.md`) và tài liệu nguồn **được phép chia sẻ** vào khung chat.
 
 **Bước 2:** Copy câu lệnh, sửa phần `[ ]`:
 
 ```text
-Đọc file quy chuẩn slide Vieclam24h đính kèm. Từ nội dung dưới đây, soạn dàn ý bài thuyết trình [số] slide cho [người nghe].
-Với mỗi slide, ghi rõ:
-- Slide mẫu số mấy trong mục 6 (vd: #17 Biểu đồ đường + Nhận định)
-- Kicker (dạng "01 · CHỦ ĐỀ")
-- Tiêu đề là một câu kết luận
-- Nội dung đúng giới hạn của slide mẫu đó (số ý, số con số)
-- Nguồn
-Viết tên thương hiệu đúng là "Vieclam24h". Tiếng Việt có dấu, câu ngắn, có số liệu cụ thể.
-Nội dung: [dán nội dung hoặc mô tả]
+Đọc file quy chuẩn slide Vieclam24h đính kèm. Xếp nội dung dưới đây vào các slide mẫu ở mục 6 cho bài thuyết trình dành cho [người nghe].
+
+QUY TẮC BẮT BUỘC:
+- Giữ nguyên 100% nội dung gốc: từng chữ, từng con số, thứ tự ý. Không viết lại, không cắt bớt, không thêm, không làm tròn số.
+- Nội dung quá dài so với slide mẫu: chia sang nhiều slide hoặc chọn slide mẫu khác, vẫn giữ nguyên chữ.
+- Chỗ nào bản gốc không có (vd: chưa có dòng chủ đề nhỏ, chưa có nguồn), để trống và ghi [THIẾU].
+- Không tự sửa bất kỳ lỗi nào. Mọi góp ý ghi ở PHẦN B.
+
+TRẢ LỜI THEO 2 PHẦN:
+PHẦN A — DÀN SLIDE (nội dung nguyên văn)
+Mỗi slide ghi: số thứ tự · slide mẫu số mấy (vd: #17 Biểu đồ đường + Nhận định) · dòng chủ đề nhỏ · tiêu đề · nội dung · nguồn.
+
+PHẦN B — ĐỀ XUẤT (không tự áp dụng)
+Bảng gồm các cột: Slide · Vấn đề · Nội dung gốc · Đề xuất sửa · Lý do.
+Kiểm tra: tên thương hiệu khác "Vieclam24h", lỗi chính tả / dấu, số liệu thiếu nguồn hoặc mâu thuẫn, tiêu đề chưa phải câu kết luận, slide quá 5 ý, câu quá dài, thông tin nội bộ hoặc nhạy cảm.
+Nếu không có vấn đề, ghi "Không có đề xuất".
+
+Nội dung: [dán nội dung]
 ```
 
-**Bước 3:** Mở file mẫu → nhân bản đúng slide mẫu AI đề xuất → dán nội dung → kiểm tra theo mục 10.
+**Bước 3:** Đọc **Phần B – Đề xuất**, tự quyết định sửa chỗ nào. Người làm slide chịu trách nhiệm nội dung cuối cùng, không phải AI.
 
-**Một số câu lệnh khác:**
+**Bước 4:** Mở file mẫu → nhân bản đúng slide mẫu AI đề xuất → dán nội dung **Phần A** (cùng các sửa đổi bạn đã duyệt) → kiểm tra theo mục 10.
+
+**Câu lệnh khác** (chỉ dùng khi bạn **chủ động** muốn AI góp ý câu chữ; AI vẫn trả về đề xuất bên cạnh bản gốc, không thay bản gốc):
 
 ```text
-Viết lại các tiêu đề slide sau thành câu kết luận ngắn, tối đa 12 từ, có số liệu nếu có: [dán tiêu đề]
+Đề xuất cách viết lại các tiêu đề slide sau thành câu kết luận ngắn, tối đa 12 từ. Trình bày dạng bảng: Tiêu đề gốc · Đề xuất · Lý do. Không bịa số liệu không có trong tiêu đề gốc: [dán tiêu đề]
 ```
 
 ```text
-Rút gọn đoạn sau thành tối đa 5 ý, mỗi ý một dòng, động từ lên trước, để đưa vào slide chữ: [dán đoạn văn]
+Đề xuất cách rút gọn đoạn sau thành tối đa 5 ý cho slide chữ. Trình bày: Bản gốc · Đề xuất rút gọn · Những ý bị lược (nếu có). Không thêm thông tin mới: [dán đoạn văn]
 ```
 
 ```text
-Kiểm tra dàn ý slide sau theo quy chuẩn Vieclam24h đính kèm, chỉ ra slide nào quá nhiều chữ, thiếu nguồn, tiêu đề chưa phải kết luận, hoặc viết sai tên thương hiệu: [dán dàn ý]
+Kiểm tra dàn ý slide sau theo quy chuẩn Vieclam24h đính kèm. KHÔNG sửa nội dung. Chỉ liệt kê vấn đề theo bảng: Slide · Vấn đề · Đề xuất (quá nhiều chữ, thiếu nguồn, tiêu đề chưa phải kết luận, sai tên thương hiệu, lỗi chính tả): [dán dàn ý]
 ```
 
 > ⚠️ Không đưa cho AI số liệu kinh doanh nội bộ, thông tin khách hàng, ứng viên hay tài liệu chưa được phép công bố.
@@ -260,6 +281,7 @@ Kiểm tra dàn ý slide sau theo quy chuẩn Vieclam24h đính kèm, chỉ ra s
 ## 10. Kiểm tra trước khi gửi
 
 - [ ] Làm trên **file mẫu** Vieclam24h, không phải slide trắng hay theme khác.
+- [ ] Có dùng AI: nội dung trong slide **khớp bản gốc**, chỉ khác ở những đề xuất bạn đã tự duyệt.
 - [ ] Đã **xoá slide hướng dẫn** (#2) và các slide mẫu không dùng.
 - [ ] Tên thương hiệu viết đúng **Vieclam24h** ở mọi chỗ, kể cả tên file.
 - [ ] Mỗi tiêu đề là một **câu kết luận**; kicker đúng số phần.

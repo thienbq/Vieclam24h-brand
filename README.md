@@ -36,7 +36,7 @@ V viết hoa, viết liền, không dấu. Không nickname, không viết tắt 
 Mọi bài thuyết trình bắt đầu từ file mẫu [`Vieclam24h_Slide_Template.pptx`](Vieclam24h_Slide_Template.pptx). Không làm trên slide trắng, không dùng mẫu có sẵn của Google Slides hay PowerPoint.
 
 **③ Dùng AI? Cho nó đọc bài trước khi giao việc.**<br>
-Đính kèm đúng file quy chuẩn (bảng bên dưới) rồi mới ra đề. AI làm nhanh, **đội thiết kế duyệt kỹ**: chưa duyệt thì chưa gửi, chưa đăng.
+Đính kèm đúng file quy chuẩn (bảng bên dưới) rồi mới ra đề. Khi áp template, **AI không được sửa nội dung của bạn**, chỉ được ghi đề xuất. AI làm nhanh, **đội thiết kế duyệt kỹ**: chưa duyệt thì chưa gửi, chưa đăng.
 
 <br>
 
@@ -87,24 +87,29 @@ Hai lối đi, chung một điểm về: **file mẫu Vieclam24h**.<br>
 </details>
 
 <details>
-<summary><b>▸ Cách 2 · Nhờ AI soạn nội dung, rồi đổ vào file mẫu</b> &nbsp;<sub>(bấm để mở)</sub></summary>
+<summary><b>▸ Cách 2 · Nhờ AI xếp nội dung vào slide mẫu, rồi đổ vào file mẫu</b> &nbsp;<sub>(bấm để mở)</sub></summary>
 
 <br>
 
-AI viết nháp, **file mẫu lo phần đẹp**. Slide do AI tự thiết kế thì để AI tự xem.
+AI **xếp nội dung của bạn vào đúng slide mẫu, không sửa một chữ nào**. Thấy chỗ có vấn đề thì AI ghi ra một danh sách **Đề xuất** riêng, bạn đọc rồi tự quyết. Slide do AI tự thiết kế thì để AI tự xem.
 
 1. Tải file **B · Slide Guideline** về máy.
 2. Mở ChatGPT, Gemini hoặc Claude → bấm **+** hoặc 📎 cạnh ô chat → chọn file vừa tải.
 3. Copy câu lệnh dưới đây (bấm biểu tượng 📋 ở góc phải khung), dán vào ô chat, sửa phần trong `[ ]`, rồi gửi:
 
 ```
-Đọc file quy chuẩn slide Vieclam24h đính kèm. Từ nội dung dưới đây, soạn dàn ý bài thuyết trình [số] slide cho [người nghe]. Mỗi slide ghi rõ: dùng slide mẫu số mấy, dòng chủ đề nhỏ, tiêu đề là một câu kết luận, nội dung, nguồn số liệu.
+Đọc file quy chuẩn slide Vieclam24h đính kèm. Xếp nội dung dưới đây vào các slide mẫu ở mục 6 cho bài thuyết trình dành cho [người nghe].
+Giữ nguyên 100% nội dung gốc: từng chữ, từng con số, thứ tự ý. Không viết lại, không cắt bớt, không thêm. Quá dài thì chia sang nhiều slide. Chỗ bản gốc không có thì ghi [THIẾU].
+Trả lời 2 phần:
+PHẦN A: Dàn slide nguyên văn (slide mẫu số mấy · dòng chủ đề nhỏ · tiêu đề · nội dung · nguồn).
+PHẦN B: Đề xuất, không tự áp dụng (bảng: Slide · Vấn đề · Nội dung gốc · Đề xuất sửa · Lý do).
 Nội dung: [dán nội dung]
 ```
 
-4. Làm tiếp **Cách 1** từ bước 1: nhân bản đúng slide mẫu AI đề xuất, dán nội dung vào.
+4. Đọc **Phần B**, tự chọn đề xuất nào nên sửa. Bạn là người chốt nội dung, không phải AI.
+5. Làm tiếp **Cách 1** từ bước 1: nhân bản đúng slide mẫu AI chọn, dán nội dung Phần A vào.
 
-<sub>Thêm câu lệnh mẫu (rút gọn ý, viết lại tiêu đề, soát dàn ý): mục 9 của file B · Slide Guideline.</sub>
+<sub>Câu lệnh đầy đủ và các câu lệnh góp ý khác: mục 9 của file B · Slide Guideline.</sub>
 
 </details>
 
