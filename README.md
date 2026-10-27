@@ -43,7 +43,11 @@ Mọi bài thuyết trình bắt đầu từ [`Vieclam24h_Slide_Template.pptx`](
 | **03** | [**Slide Template**](Vieclam24h_Slide_Template.pptx) | File mẫu thuyết trình, có sẵn 25 slide để nhân bản |
 | **04** | [**Prompt Kit**](Vieclam24h_Prompt_Kit.md) | Nhờ ChatGPT / Gemini tạo ảnh bài đăng đúng thương hiệu |
 
-<sub>💡 Bấm tên file `.md` để đọc ngay trên trang. Cần tải về: mở file → bấm biểu tượng ⤓ <i>Download raw file</i> ở góc phải.</sub>
+<sub>💡 Bấm tên file `.md` để đọc ngay trên trang. Cần tải về máy để đính kèm vào AI? Xem hình dưới.</sub>
+
+<p align="center">
+  <img src="assets/guide-download.png" alt="Cách tải file: bấm tên file, rồi bấm biểu tượng tải xuống cạnh nút Raw" width="100%">
+</p>
 
 <br>
 
@@ -114,6 +118,10 @@ Thêm câu lệnh mẫu: mục 9 của [Slide Guideline](Vieclam24h_Slide_Guidel
 Nguyên tắc chỉ có một: **đưa file cho AI đọc trước, rồi mới giao việc.**<br>
 Đính kèm file: bấm **+** hoặc 📎 cạnh ô chat trong ChatGPT, Gemini hoặc Claude.
 
+<p align="center">
+  <img src="assets/demo-ai-text.png" alt="Demo: đính kèm Brand Guideline, dán câu lệnh, AI trả về caption" width="100%">
+</p>
+
 <details>
 <summary><b>Viết nội dung</b> · đính kèm Brand Guideline</summary>
 
@@ -141,6 +149,10 @@ Nguyên tắc chỉ có một: **đưa file cho AI đọc trước, rồi mới 
 ```
 
 </details>
+
+<p align="center">
+  <img src="assets/demo-ai-image.png" alt="Demo: kéo Prompt Kit, logo và brief vào chat, AI trả về 2 ảnh và caption" width="100%">
+</p>
 
 <details>
 <summary><b>Tạo ảnh bài đăng</b> · đính kèm Prompt Kit</summary>
