@@ -154,6 +154,10 @@ Nguyên tắc chỉ có một: **đưa file cho AI đọc trước, rồi mới 
   <img src="assets/demo-ai-image.png" alt="Demo: kéo Prompt Kit, logo và brief vào chat, AI trả về 2 ảnh và caption" width="100%">
 </p>
 
+<p align="center">
+  <img src="assets/demo-ai-chop.png" alt="Demo: thêm ảnh mẫu Chớp, nói rõ Chớp làm gì, soát Chớp giống ảnh mẫu" width="100%">
+</p>
+
 <details>
 <summary><b>Tạo ảnh bài đăng</b> · đính kèm Prompt Kit</summary>
 
