@@ -47,6 +47,7 @@ Mọi bài thuyết trình bắt đầu từ file mẫu [`Vieclam24h_Slide_Templ
 | | File | Là gì | Dùng khi |
 |:---:|---|---|---|
 | **A** | [**Brand Guideline 2026**](Vieclam24h_Brand_Guideline_2026.md) | Toàn bộ quy chuẩn thương hiệu | Tra logo, màu, font, giọng văn, Chớp AI · Đính kèm cho AI khi nhờ viết chữ |
+| **A+** | [**Brand Guideline 2026 · PDF**](Vieclam24h_Brand_Guideline_2026_Draft_19.10.pdf) | Bản trình bày đầy đủ hình ảnh, **bản nháp cập nhật 19.10.2026, chưa final** | Xem logo, màu, hình mẫu bằng mắt · Không đính kèm cho AI (file nặng), dùng file A thay thế |
 | **B** | [**Slide Guideline 2026**](Vieclam24h_Slide_Guideline_2026.md) | Quy chuẩn làm slide | Đính kèm cho AI khi nhờ soạn slide · Tra cỡ chữ, bố cục |
 | **C** | [**Slide Template**](Vieclam24h_Slide_Template.pptx) | File mẫu thuyết trình, 25 slide mẫu | Mọi bài thuyết trình |
 | **D** | [**Prompt Kit**](Vieclam24h_Prompt_Kit.md) | Hướng dẫn cho AI cách tạo ảnh đúng brand | Đính kèm cho ChatGPT / Gemini khi nhờ tạo ảnh |

@@ -1,6 +1,7 @@
 # Vieclam24h — Brand Guideline 2026
 
 > Phiên bản tài liệu: **1.0 · Tháng 10/2026**
+> Chuyển từ bản PDF **cập nhật 19.10.2026 (bản nháp, chưa final)**: `Vieclam24h_Brand_Guideline_2026_Draft_19.10.pdf`. Nội dung có thể thay đổi khi bản final được duyệt.
 > Nguồn tham chiếu chung cho mọi điểm chạm của Vieclam24h: sản phẩm, truyền thông, ấn phẩm nội bộ.
 > Trường hợp chưa được đề cập → liên hệ đội ngũ thương hiệu **trước khi** sử dụng.
 
