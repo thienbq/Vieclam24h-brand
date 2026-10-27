@@ -255,7 +255,9 @@ Gửi cho đội thiết kế: **Ảnh 1 + Ảnh 2 + caption**, đặt tên file
 
 ---
 
-## 9. Phân cấp thông tin & điểm nhấn (áp dụng cho post, banner, slide)
+## 9. Phân cấp thông tin & điểm nhấn (áp dụng cho post, story, banner)
+
+> Làm **slide thuyết trình**: dùng file mẫu và làm theo `Vieclam24h_Slide_Guideline_2026.md`, không dùng thang chữ ở mục này.
 
 ### 9.1 Chính – phụ: mỗi khung hình chỉ có 1 thông điệp chính
 
@@ -271,14 +273,14 @@ Gửi cho đội thiết kế: **Ảnh 1 + Ảnh 2 + caption**, đặt tên file
 
 ### 9.2 Thang cỡ chữ (mỗi cấp gấp khoảng 1,5–2 lần cấp dưới)
 
-> Thang này dành riêng cho ấn phẩm truyền thông (post, story, slide), lớn hơn thang chữ giao diện trong Brand Guideline (Display 60 / H1 44 / Body 16…) vì người xem lướt trên điện thoại.
+> Thang này dành riêng cho ấn phẩm truyền thông (post, story, banner), lớn hơn thang chữ giao diện trong Brand Guideline (Display 60 / H1 44 / Body 16…) vì người xem lướt trên điện thoại.
 
-| | Post 1080 px | Story 1080×1920 | Slide 16:9 (pt) |
-|---|---|---|---|
-| Cấp 1 | 72–96 px | 88–120 px | 32–40 pt (bìa: 40–60) |
-| Cấp 2 | 36–44 px | 44–56 px | 18–22 pt |
-| Cấp 3 | 26–30 px | 32–36 px | 13–15 pt |
-| Nút / nhãn | 28–32 px | 36–40 px | 13–14 pt, Bold |
+| | Post 1080 px | Story 1080×1920 |
+|---|---|---|
+| Cấp 1 | 72–96 px | 88–120 px |
+| Cấp 2 | 36–44 px | 44–56 px |
+| Cấp 3 | 26–30 px | 32–36 px |
+| Nút / nhãn | 28–32 px | 36–40 px |
 
 - Headline **≥ 2 lần** dòng phụ. Chênh lệch nhỏ hơn thì mắt không biết đọc gì trước.
 - Dãn dòng: headline 0,9–1,0; nội dung 1,2–1,3.
@@ -310,7 +312,7 @@ Quy tắc:
 ### 9.5 Logo trong bộ nhận diện
 
 - **Post / banner:** logo ở góc trên trái, trong lề an toàn, rộng khoảng 22% khung (không nhỏ hơn 120px). Headline bắt đầu dưới logo.
-- **Slide:** bìa và slide kết dùng logo lớn (bản trắng trên nền tím). Slide nội dung dùng logo nhỏ ở góc dưới trái (cao ~0,3"), tránh tranh chỗ với tiêu đề trên trái.
+- **Slide:** logo đã gắn sẵn trong file mẫu (trên trái ở bìa, dưới trái ở slide nội dung). Không xoá, không chèn thêm. Xem `Vieclam24h_Slide_Guideline_2026.md`.
 - Logo luôn ghép từ file gốc, không vẽ lại. Chừa vùng trống quanh logo bằng chiều cao biểu tượng.
 
 ### 9.6 Kiểm nhanh phân cấp ("nheo mắt")
