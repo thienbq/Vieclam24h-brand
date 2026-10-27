@@ -13,7 +13,7 @@
 
 ## Hôm nay bạn cần gì?
 
-| Tôi muốn… | Đi lối này | Mang theo |
+| Việc cần làm | Xem mục | File cần dùng |
 |---|---|---|
 | **Làm slide thuyết trình** | [Mục 03 · Làm slide](#03--làm-slide) | Slide Template (+ Slide Guideline nếu dùng AI) |
 | **Viết caption, thông báo, nội dung** | [Mục 04 · Viết chữ với AI](#04--viết-chữ-với-ai) | Brand Guideline |
@@ -32,7 +32,7 @@
 V viết hoa, viết liền, không dấu. Không nickname, không viết tắt cho nhanh. Slide, bài đăng, email hay tên file đều vậy.<br>
 <sub>❌ VL24H · VL24 · vieclam24h · VIECLAM24H · Việc Làm 24h · ViecLam24h</sub>
 
-**② Làm slide tay? File mẫu là điểm xuất phát, không phải gợi ý.**<br>
+**② Làm slide bằng cơm? File mẫu là điểm xuất phát, không phải gợi ý.**<br>
 Mọi bài thuyết trình bắt đầu từ file mẫu [`Vieclam24h_Slide_Template.pptx`](Vieclam24h_Slide_Template.pptx). Không làm trên slide trắng, không dùng mẫu có sẵn của Google Slides hay PowerPoint.
 
 **③ Dùng AI? Cho nó đọc bài trước khi giao việc.**<br>
@@ -159,7 +159,7 @@ Nội dung: [dán nội dung]
 
 ## 05 · Tạo ảnh với AI
 
-Ba file, một câu lệnh, hai ảnh. Dùng **ChatGPT hoặc Gemini**: Claude giỏi chữ, nhưng không vẽ ảnh. Nhớ đăng nhập; tài khoản miễn phí có thể bị giới hạn số ảnh mỗi ngày.
+Ba file, một câu lệnh, hai ảnh. Dùng **ChatGPT hoặc Gemini** (Claude không tạo được ảnh). Nhớ đăng nhập; tài khoản miễn phí có thể bị giới hạn số ảnh mỗi ngày.
 
 <p align="center">
   <img src="assets/demo-ai-image.png" alt="Demo: kéo Prompt Kit, logo và brief vào chat (thêm ảnh mẫu Chớp nếu cần), AI trả về 2 ảnh và caption" width="100%">
