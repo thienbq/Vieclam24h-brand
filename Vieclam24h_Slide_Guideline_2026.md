@@ -138,7 +138,7 @@ Các dạng phức tạp (biểu đồ, quy trình, bảng…) → **nhân bản
 
 ---
 
-## 6. Thư viện slide mẫu (25 slide)
+## 6. Thư viện slide mẫu (30 slide)
 
 | # | Slide mẫu | Dùng cho | Quy tắc nội dung |
 |---|---|---|---|
@@ -166,7 +166,14 @@ Các dạng phức tạp (biểu đồ, quy trình, bảng…) → **nhân bản
 | 22 | Bảng xếp hạng | Top 10 | Hàng tiêu đề nền tím chữ trắng · tối đa 10 hàng |
 | 23 | Khuyến nghị 2 nhóm | Kết luận hành động | 3 khuyến nghị / nhóm · mỗi cái là một hành động cụ thể |
 | 24 | Miễn trừ trách nhiệm | Báo cáo công bố ra ngoài | Giữ nguyên nội dung, chỉ sửa khi pháp chế yêu cầu |
-| 25 | Kết | Trang cuối | `Cảm ơn` · tên, chức danh · email · Vieclam24h.vn · mã QR |
+| 25 | Bìa · có pattern | Bài không có ảnh người phù hợp | Như slide 1, nền vân đôi mũi tên thay cho ảnh |
+| 26 | Mở phần · có pattern | Đầu mỗi phần | Số phần · tên phần · câu nhấn |
+| 27 | Slide chữ · góc pattern | Liệt kê ý, cần nhẹ nhàng hơn | Như slide 6, vân nhạt ở góc dưới phải |
+| 28 | Câu nói lớn · có pattern | Thông điệp, trích dẫn | Như slide 8, vân mờ phía sau |
+| 29 | Kết · có pattern | Trang cuối | Như slide 30, nền vân |
+| 30 | Kết | Trang cuối | `Cảm ơn` · tên, chức danh · email · Vieclam24h.vn · mã QR |
+
+**Slide có pattern (25–29):** chọn **một** kiểu cho cả bài, hoặc bản có ảnh, hoặc bản có pattern, không trộn lẫn. Không đặt chữ nội dung lên vùng vân dày. Xoá các slide không dùng trước khi gửi.
 
 **Cấu trúc gợi ý:**
 - **Báo cáo:** Bìa → Mở đầu → Mục lục → (Mở phần → nội dung) × số phần → Khuyến nghị → Miễn trừ → Kết.
