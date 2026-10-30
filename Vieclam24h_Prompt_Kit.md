@@ -139,20 +139,27 @@ Typography — expressive but on-brand: set the headline in Lexend ExtraBold/Bla
 
 ### 4.2 Thẻ việc làm (tin tuyển dụng: tối đa 3 thẻ, luôn có lương và địa điểm)
 
-Thay mỗi dòng `• "…"` bằng một việc. Xoá dòng thừa nếu có ít hơn 3 việc.
+Thay mỗi dòng `Card …` bằng một việc. Xoá dòng thừa nếu có ít hơn 3 việc. Ô vuông tím bên trái là chỗ đặt logo doanh nghiệp: AI chỉ để ô trống, designer đặt logo thật sau.
+
+> AI vẽ thẻ không chắc đúng 100% (hay sai dấu tiếng Việt, lệch màu, lệch khoảng cách). Tin tuyển dụng cần chính xác thì cách chắc nhất: cho AI làm ảnh nền + chữ lớn, còn thẻ việc làm thì ghép từ file mẫu trong Figma/Illustrator.
 
 ```text
-Add [SỐ THẺ] job cards stacked with equal gaps, under the headline area. Render exactly:
-  • "[Vị trí 1] · [Công ty 1] · [Địa điểm 1] · [Lương 1]"
-  • "[Vị trí 2] · [Công ty 2] · [Địa điểm 2] · [Lương 2]"
-  • "[Vị trí 3] · [Công ty 3] · [Địa điểm 3] · [Lương 3]"
-Job card style (follow exactly): solid white card, corner radius about 16 px at 1080 px width, thin 1 px border #E6E3EE, soft very light shadow, generous inner padding; left-aligned text in Lexend-like geometric sans-serif. Row order: 1) job position — bold, dark ink #1B1530, largest; 2) company name — semibold, grey #5F5A75; 3) location — light, grey, with a small round-ended line map-pin icon before it; 4) salary — bold, violet #9A69FF, at least 24 px at 1080 px width, with a small round-ended line coin icon before it. Icons: 2 px rounded strokes. Optional: a small job code (e.g. "#01", "#02") in grey #5F5A75 at the top-right of each card to tell the cards apart. Cards are the same width, aligned to the same left edge, equal vertical gaps; never empty placeholder bars. Do not invent company logos.
+Add [SỐ THẺ] job cards stacked vertically, under the headline area. Render the text exactly, character by character, Vietnamese accents included:
+  Card 1 — position: "[Vị trí 1]" / company: "[Công ty 1]" / location: "[Địa điểm 1]" / salary: "[Lương 1]"
+  Card 2 — position: "[Vị trí 2]" / company: "[Công ty 2]" / location: "[Địa điểm 2]" / salary: "[Lương 2]"
+  Card 3 — position: "[Vị trí 3]" / company: "[Công ty 3]" / location: "[Địa điểm 3]" / salary: "[Lương 3]"
+Each field goes on its own row inside its card — never join them on one line, never show the separator "/" or the words position/company/location/salary.
+Job card style (follow exactly, same for every card): a horizontal white card, corner radius about 16 px at 1080 px width, thin 1 px border #E6E3EE, very soft light-purple shadow, inner padding about 24 px. LEFT: one square tile (1:1), solid brand purple #401F99, corner radius about 12 px, its height EQUAL to the height of the text block next to it, about 20 px gap to the text; the tile is plain, empty purple — no letters, no icon, no invented logo (the real company logo is placed later by the designer). RIGHT: a left-aligned text block in a Lexend-like geometric sans-serif, one item per row, in this order: 1) job position — bold, ink #1B1530, the largest text in the card; 2) company name — semibold, ink #1B1530; 3) location — regular, ink #1B1530, with a small round-ended line map-pin icon before it; 4) salary — bold, violet #9A69FF, at least 24 px at 1080 px width, with a small round-ended line coin icon before it. Icons: 2 px rounded strokes, same set. The card contains ONLY the tile and these rows: no buttons, no tags/chips, no save/heart icon, no job code, no extra lines. If a row is not given, leave it out and let the card shrink to fit; never draw empty placeholder bars.
+All cards have the same width, the same left edge and equal vertical gaps.
 ```
 
 ### 4.3 Một việc nổi bật
 
 ```text
-Add ONE highlighted job card (same job card style as the brand: white, 16 px rounded corners, 1 px border #E6E3EE; position bold ink #1B1530, company grey #5F5A75, location with a pin icon, salary bold violet #9A69FF, at least 24 px at 1080 px width, with a coin icon). Render exactly: "[Vị trí] · [Công ty] · [Địa điểm] · [Lương]". Do not invent a company logo.
+Add ONE job card, a little larger than the other text blocks. Render the text exactly, character by character, Vietnamese accents included:
+  position: "[Vị trí]" / company: "[Công ty]" / location: "[Địa điểm]" / salary: "[Lương]"
+Each field goes on its own row — never join them on one line, never show the separator "/" or the words position/company/location/salary.
+Job card style (follow exactly, same for every card): a horizontal white card, corner radius about 16 px at 1080 px width, thin 1 px border #E6E3EE, very soft light-purple shadow, inner padding about 24 px. LEFT: one square tile (1:1), solid brand purple #401F99, corner radius about 12 px, its height EQUAL to the height of the text block next to it, about 20 px gap to the text; the tile is plain, empty purple — no letters, no icon, no invented logo (the real company logo is placed later by the designer). RIGHT: a left-aligned text block in a Lexend-like geometric sans-serif, one item per row, in this order: 1) job position — bold, ink #1B1530, the largest text in the card; 2) company name — semibold, ink #1B1530; 3) location — regular, ink #1B1530, with a small round-ended line map-pin icon before it; 4) salary — bold, violet #9A69FF, at least 24 px at 1080 px width, with a small round-ended line coin icon before it. Icons: 2 px rounded strokes, same set. The card contains ONLY the tile and these rows: no buttons, no tags/chips, no save/heart icon, no job code, no extra lines. If a row is not given, leave it out and let the card shrink to fit; never draw empty placeholder bars.
 ```
 
 ### 4.4 Danh sách tên vị trí
@@ -205,6 +212,7 @@ Viết caption đăng kèm bài này cho [KÊNH] của Vieclam24h:
 | Chớp bị vẽ sai | `Chớp chưa giống ảnh mẫu. Vẽ lại Chớp y hệt ảnh mẫu đính kèm: đầu hình vali, mặt, mắt, màu và chi tiết giữ nguyên; chỉ có bàn tay, không có cánh tay, không có chân. Chỉ đổi tư thế. Giữ nguyên phần còn lại.` |
 | Chớp không tương tác với người | `Cho Chớp và người tương tác rõ hơn: người nhìn hoặc cười về phía Chớp, Chớp [CHỚP LÀM GÌ]. Giữ nguyên mọi thứ khác.` |
 | Sai chính tả / sai dấu | `Sửa chữ cho đúng chính xác từng ký tự: "[chữ đúng]". Không đổi gì khác.` |
+| Thẻ việc làm sai mẫu | `Vẽ lại thẻ việc làm đúng mẫu: nền trắng, bo 16px, viền #E6E3EE; bên trái là ô vuông tím #401F99 trống, cao bằng khối chữ; bên phải mỗi thông tin một dòng: vị trí (đậm, to nhất), doanh nghiệp, địa điểm có icon ghim, lương màu #9A69FF có icon đồng xu. Bỏ nút, tag, mã số, icon tim. Giữ nguyên mọi thứ khác.` |
 | AI tự vẽ logo | `Xoá logo vừa vẽ, để trống góc trên bên trái. Không vẽ bất kỳ logo nào.` |
 | Chữ chạm mép / đè lên người hoặc Chớp | `Dời chữ, nút và logo vào trong, cách mép ít nhất 8% khung hình (story: tránh 13% trên và 18% dưới), không đè lên người và Chớp.` |
 | Tô màu nhiều chữ quá | `Chỉ giữ màu nhấn cho đúng một từ/cụm "[từ nhấn]", các chữ còn lại về màu chính. Giữ nguyên mọi thứ khác.` |
@@ -219,7 +227,7 @@ Viết caption đăng kèm bài này cho [KÊNH] của Vieclam24h:
 - [ ] Logo: góc trên trái còn trống cho logo, hoặc (nếu dùng mục 4.6) logo giống hệt file gốc, không méo, không đổi màu, chỉ có một logo.
 - [ ] Người trông thật, không nhìn thẳng ống kính, không cười gượng. Ảnh sáng, rõ nét, màu chân thực, không nhiễu hạt.
 - [ ] Chữ, nút, logo nằm trong lề an toàn (≥ 8% mỗi cạnh; story tránh 13% trên, 18% dưới).
-- [ ] Tin tuyển dụng: có lương và địa điểm, tối đa 3 thẻ.
+- [ ] Tin tuyển dụng: có lương và địa điểm, tối đa 3 thẻ. Thẻ đúng mẫu: ô vuông tím bên trái cao bằng khối chữ, mỗi thông tin một dòng, không nút / tag / mã số trong thẻ, đúng từng dấu.
 - [ ] Nheo mắt nhìn ảnh 2: thấy ngay **một** điểm nhấn (headline hoặc con số), rồi mới tới dòng phụ, rồi nút (xem mục 9).
 - [ ] Chỉ 1 từ/cụm được tô màu nhấn; headline to gấp ít nhất 2 lần dòng phụ.
 - [ ] Chữ màu Violet (từ nhấn, lương) đủ lớn (≥ 24px ở khung 1080); không có chữ cyan hay chữ trắng trên nền trắng/cam.
@@ -292,7 +300,7 @@ Chọn **một** trong các cách sau làm điểm nhấn chính của khung hì
 1. **Từ khoá màu:** 1 từ/cụm trong headline đổi sang Violet `#9A69FF` (nền sáng) hoặc Cyan `#00CAFB` (nền tím).
 2. **Con số lớn:** lương, %, số thứ tự… làm cấp 1, to gấp 2–3 lần phần chữ còn lại.
 3. **Chữ tay Oooh Baby:** 1 câu ngắn ≤ 8 từ, viết thường, nghiêng nhẹ, đặt sát headline.
-4. **Khối nổi:** 1 thẻ/khối nền Purple đặc giữa các thẻ trắng (vd. thẻ quan trọng nhất trong 3 thẻ).
+4. **Khối nổi:** 1 khối nền Purple đặc giữa các khối trắng. Riêng thẻ việc làm luôn giữ nền trắng; thẻ quan trọng nhất nổi lên bằng cách to hơn hoặc nhô lên.
 5. **Chớp AI:** mascot chỉ vào hoặc cầm nội dung chính.
 
 Quy tắc:
@@ -300,7 +308,7 @@ Quy tắc:
 - Chỉ tô màu **1 từ/cụm** trong một khung hình. Nhấn mọi thứ thì không còn gì được nhấn.
 - Orange chỉ dùng làm khối nền nhỏ với chữ Ink `#1B1530`, không dùng chữ cam hay chữ trắng trên nền cam.
 - Chữ Violet chỉ dùng khi chữ ≥ 24px (ở khung 1080).
-- Trong một nhóm thẻ ngang hàng, chỉ **1 thẻ** được làm nổi (khối tím, to hơn hoặc nhô lên). Các thẻ còn lại giữ trắng.
+- Trong một nhóm thẻ ngang hàng, chỉ **1 thẻ** được làm nổi (to hơn hoặc nhô lên; khối tím chỉ dùng cho khối thông tin, không dùng cho thẻ việc làm). Các thẻ còn lại giữ nguyên.
 - Điểm nhấn đặt ở nơi mắt bắt đầu đọc (trên trái) hoặc ở giữa trục chính, không đặt ở góc bị bỏ qua.
 
 ### 9.4 Khoảng cách & nhóm thông tin
