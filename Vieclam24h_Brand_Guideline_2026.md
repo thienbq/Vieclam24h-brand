@@ -305,7 +305,11 @@ Kết hợp Lexend + Oooh Baby cân bằng giữa tính chuyên nghiệp và tin
 
 Yếu tố đồ họa đặc trưng. Mỗi thẻ đại diện cho một cơ hội nghề nghiệp cụ thể, đưa nội dung tuyển dụng trở thành một phần trực tiếp của hệ thống nhận diện.
 
-- **Thứ tự thông tin:** Vị trí → Doanh nghiệp → Địa điểm → Mức lương (+ mã số khi nhiều thẻ trong cùng thiết kế).
+- **Thứ tự thông tin:** Vị trí → Doanh nghiệp → Địa điểm → Mức lương.
+- **Logo doanh nghiệp:** ô vuông bên trái, cao bằng khối chữ; chưa có logo thì để ô tím `#401F99` trống.
+- **Mã job:** nhãn bo tròn nền Purple, chữ trắng, đặt đè lên mép trên bên phải thẻ (trên nền tím thì đổi sang nền Cyan, chữ Ink). Không đặt mã job trong nội dung thẻ.
+- **Không thêm vào thẻ:** nút, tag, icon lưu.
+- **Công cụ:** tạo job card đúng mẫu (từng thẻ hoặc hàng loạt từ Excel) tại https://vieclam24h-brandguideline.web.app/jobcard.html
 - **Cách dùng:** độc lập, xếp lớp hoặc kết hợp hình ảnh để thể hiện sự đa dạng của thị trường việc làm.
 - **Bo góc:** 16px.
 - Luôn giữ nguyên cấu trúc, thứ bậc thông tin, tỷ lệ bo góc và màu sắc nhận diện.
