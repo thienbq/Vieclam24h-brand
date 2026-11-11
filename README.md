@@ -42,7 +42,7 @@ V hoa, viết liền, không dấu. Slide, bài đăng, email, tên file: như n
 <sub>❌ VL24H · VL24 · vieclam24h · VIECLAM24H · Việc Làm 24h · ViecLam24h</sub>
 
 **② Slide bắt đầu từ file mẫu, không từ trang trắng.**<br>
-[`Vieclam24h_Slide_Template_11-11-2026.pptx`](Vieclam24h_Slide_Template_11-11-2026.pptx) là điểm xuất phát. Mẫu có sẵn của Google Slides, PowerPoint: để dành cho công ty khác.
+[`Vieclam24h_Slide_Template_11-11-2026.pptx`](Vieclam24h_Slide_Template_11-11-2026.pptx) là điểm xuất phát. Không dùng mẫu có sẵn của Google Slides hay PowerPoint.
 
 **③ AI làm nhanh, người duyệt kỹ.**<br>
 Cho AI đọc file quy chuẩn rồi mới giao việc. AI **không sửa nội dung của bạn**, chỉ ghi đề xuất. Đội thiết kế chưa duyệt thì chưa gửi, chưa đăng.
