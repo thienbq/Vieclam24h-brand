@@ -7,6 +7,11 @@
   <sub>Không cần biết code. Mở đúng file là xong nửa việc.</sub>
 </p>
 
+<p align="center">
+  <a href="https://vieclam24h-brandguideline.web.app"><b>🌐 Mở website Brand Guideline</b></a><br>
+  <sub>Logo, font, màu, Chớp Studio và các công cụ làm ấn phẩm đều ở đó, bấm là tải.</sub>
+</p>
+
 <br>
 
 <sub>BẮT ĐẦU TỪ ĐÂY</sub>
@@ -18,7 +23,11 @@
 | **Slide thuyết trình** | [03 · Làm slide](#03--làm-slide) |
 | **Caption, thông báo, nội dung** | [04 · Viết chữ với AI](#04--viết-chữ-với-ai) |
 | **Ảnh bài đăng** | [05 · Tạo ảnh với AI](#05--tạo-ảnh-với-ai) |
-| **Mã màu, logo, font, giọng văn** | [Brand Guideline](Vieclam24h_Brand_Guideline_2026.md), đọc ngay trên trang |
+| **Tải logo** | [Web · Logo](https://vieclam24h-brandguideline.web.app/#logo) |
+| **Cài font** | [Web · Chữ](https://vieclam24h-brandguideline.web.app/#chu) |
+| **Ảnh Chớp** | [Chớp Studio](https://vieclam24h-brandguideline.web.app/chop.html): chọn pose, đổi mặt, tải PNG nền trong suốt |
+| **Job card, Việc Xịn, Welcome Onboard, Vinh danh** | [Web · Công cụ & mẫu](https://vieclam24h-brandguideline.web.app/#material): điền chữ, tải ảnh |
+| **Mã màu, giọng văn** | [Brand Guideline](Vieclam24h_Brand_Guideline_2026.md), đọc ngay trên trang |
 
 <sub>Mới vào? Đọc mục 01 và 02 mất 2 phút. Sửa slide lúc 11 giờ đêm mất nhiều hơn.</sub>
 
@@ -80,7 +89,7 @@ Hai lối đi, cùng về một đích: **file mẫu Vieclam24h**.
 5. Xoá slide hướng dẫn (số 2) và slide mẫu không dùng.
 6. Soát theo **mục 10** file **B** → **Tệp** → **Tải xuống** → **PDF**.
 
-<sub>Dùng PowerPoint? Cài trước font <b>Lexend</b> và <b>Oooh Baby</b> (miễn phí, fonts.google.com), không thì chữ tự đổi font.</sub>
+<sub>Dùng PowerPoint? Cài trước font <b>Lexend</b> và <b>Oooh Baby</b> (link ở <a href="https://vieclam24h-brandguideline.web.app/#chu">web · Chữ</a>), không thì chữ tự đổi font.</sub>
 
 </details>
 
@@ -166,11 +175,11 @@ Ba file, một câu lệnh, hai ảnh. Dùng **ChatGPT hoặc Gemini** (Claude k
   <img src="assets/demo-ai-image.png" alt="Demo: kéo Prompt Kit, logo và brief vào chat (thêm ảnh mẫu Chớp nếu cần), AI trả về 2 ảnh và caption" width="100%">
 </p>
 
-1. Kéo vào ô chat: **D · Prompt Kit** + **logo PNG** (xin đội thiết kế) + **brief** (ảnh chụp hoặc gõ headline, lương, địa điểm).
+1. Kéo vào ô chat: **D · Prompt Kit** + **logo PNG** ([tải ở web](https://vieclam24h-brandguideline.web.app/#logo)) + **brief** (ảnh chụp hoặc gõ headline, lương, địa điểm).
 2. Gõ: `Làm theo file prompt-kit cho brief này.`
 3. Nhận **2 ảnh** (có chữ, không chữ) + **caption** → gửi đội thiết kế duyệt.
 
-**Cần Chớp góp mặt?** Thêm ảnh mẫu Chớp và giao việc cụ thể. Chớp đi làm, không đứng cho đủ hình:<br>
+**Cần Chớp góp mặt?** Thêm ảnh Chớp (lấy ở [Chớp Studio](https://vieclam24h-brandguideline.web.app/chop.html)) và giao việc cụ thể. Chớp đi làm, không đứng cho đủ hình:<br>
 `Làm theo file prompt-kit cho brief này, có Chớp, Chớp [đang làm gì, ví dụ: cầm bảng lương chỉ vào headline].`
 
 <sub>Sai chữ, sai Chớp, AI tự vẽ logo? Mục 6 <i>Câu sửa nhanh</i> trong file D có sẵn câu để gõ tiếp.</sub>
@@ -195,7 +204,7 @@ Tím giữ nhận diện, cyan kéo ánh nhìn, nền sáng chừa chỗ thở: 
 ## 07 · Bốn điều nên nhớ
 
 - **Dữ liệu nội bộ không đi chơi với AI.** Số kinh doanh, khách hàng, ứng viên: giữ trong nhà.
-- **Logo dùng file gốc.** Không để AI vẽ, không tự gõ lại.
+- **Logo dùng file gốc** [tải ở web](https://vieclam24h-brandguideline.web.app/#logo). Không để AI vẽ, không tự gõ lại.
 - **Đọc lại trước khi gửi.** Sai một dấu ở tên thương hiệu là cả thiết kế mất điểm.
 - **Bản mới nhất nằm ở đây.** Bản trong máy bạn từ tháng trước có thể đã cũ. Tên file có ngày cập nhật, nhìn là biết.
 
@@ -204,7 +213,7 @@ Tím giữ nhận diện, cyan kéo ánh nhìn, nền sáng chừa chỗ thở: 
 ---
 
 <p align="center">
-  <sub>Gặp trường hợp guideline chưa nói tới, hoặc cần logo, ảnh Chớp, font?</sub><br>
+  <sub>Gặp trường hợp guideline chưa nói tới?</sub><br>
   <sub><b>Hỏi đội thương hiệu trước, làm sau.</b></sub><br><br>
   <sub>Vieclam24h · Brand Kit 1.3 · cập nhật 11.11.2026</sub>
 </p>
