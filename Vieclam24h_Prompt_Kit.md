@@ -265,7 +265,7 @@ Gửi cho đội thiết kế: **Ảnh 1 + Ảnh 2 + caption**, đặt tên file
 
 ## 9. Phân cấp thông tin & điểm nhấn (áp dụng cho post, story, banner)
 
-> Làm **slide thuyết trình**: dùng file mẫu và làm theo `Vieclam24h_Slide_Guideline_2026.md`, không dùng thang chữ ở mục này.
+> Làm **slide thuyết trình**: dùng file mẫu và làm theo `Vieclam24h_Slide_Guideline_11-11-2026.md`, không dùng thang chữ ở mục này.
 
 ### 9.1 Chính – phụ: mỗi khung hình chỉ có 1 thông điệp chính
 
@@ -320,7 +320,7 @@ Quy tắc:
 ### 9.5 Logo trong bộ nhận diện
 
 - **Post / banner:** logo ở góc trên trái, trong lề an toàn, rộng khoảng 22% khung (không nhỏ hơn 120px). Headline bắt đầu dưới logo.
-- **Slide:** logo đã gắn sẵn trong file mẫu (trên trái ở bìa, dưới trái ở slide nội dung). Không xoá, không chèn thêm. Xem `Vieclam24h_Slide_Guideline_2026.md`.
+- **Slide:** logo đã gắn sẵn trong file mẫu (trên trái ở bìa, dưới trái ở slide nội dung). Không xoá, không chèn thêm. Xem `Vieclam24h_Slide_Guideline_11-11-2026.md`.
 - Logo luôn ghép từ file gốc, không vẽ lại. Chừa vùng trống quanh logo bằng chiều cao biểu tượng.
 
 ### 9.6 Kiểm nhanh phân cấp ("nheo mắt")

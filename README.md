@@ -33,7 +33,7 @@ V viết hoa, viết liền, không dấu. Không nickname, không viết tắt 
 <sub>❌ VL24H · VL24 · vieclam24h · VIECLAM24H · Việc Làm 24h · ViecLam24h</sub>
 
 **② Làm slide bằng cơm? File mẫu là điểm xuất phát, không phải gợi ý.**<br>
-Mọi bài thuyết trình bắt đầu từ file mẫu [`Vieclam24h_Slide_Template.pptx`](Vieclam24h_Slide_Template.pptx). Không làm trên slide trắng, không dùng mẫu có sẵn của Google Slides hay PowerPoint.
+Mọi bài thuyết trình bắt đầu từ file mẫu [`Vieclam24h_Slide_Template_11-11-2026.pptx`](Vieclam24h_Slide_Template_11-11-2026.pptx). Không làm trên slide trắng, không dùng mẫu có sẵn của Google Slides hay PowerPoint.
 
 **③ Dùng AI? Cho nó đọc bài trước khi giao việc.**<br>
 Đính kèm đúng file quy chuẩn (bảng bên dưới) rồi mới ra đề. Khi áp template, **AI không được sửa nội dung của bạn**, chỉ được ghi đề xuất. AI làm nhanh, **đội thiết kế duyệt kỹ**: chưa duyệt thì chưa gửi, chưa đăng.
@@ -48,8 +48,8 @@ Mọi bài thuyết trình bắt đầu từ file mẫu [`Vieclam24h_Slide_Templ
 |:---:|---|---|---|
 | **A** | [**Brand Guideline 2026**](Vieclam24h_Brand_Guideline_2026.md) | Toàn bộ quy chuẩn thương hiệu | Tra logo, màu, font, giọng văn, Chớp AI · Đính kèm cho AI khi nhờ viết chữ |
 | **A+** | [**Brand Guideline 2026 · PDF**](Vieclam24h_Brand_Guideline_2026_Draft_19.10.pdf) | Bản trình bày đầy đủ hình ảnh, **bản nháp cập nhật 19.10.2026, chưa final** | Xem logo, màu, hình mẫu bằng mắt · Không đính kèm cho AI (file nặng), dùng file A thay thế |
-| **B** | [**Slide Guideline 2026**](Vieclam24h_Slide_Guideline_2026.md) | Quy chuẩn làm slide | Đính kèm cho AI khi nhờ soạn slide · Tra cỡ chữ, bố cục |
-| **C** | [**Slide Template**](Vieclam24h_Slide_Template.pptx) | File mẫu thuyết trình, 30 slide mẫu (có 5 slide dùng pattern) | Mọi bài thuyết trình |
+| **B** | [**Slide Guideline 2026 · cập nhật 11.11.2026**](Vieclam24h_Slide_Guideline_11-11-2026.md) | Quy chuẩn làm slide | Đính kèm cho AI khi nhờ soạn slide · Tra cỡ chữ, bố cục |
+| **C** | [**Slide Template · cập nhật 11.11.2026**](Vieclam24h_Slide_Template_11-11-2026.pptx) | File mẫu thuyết trình, 30 slide mẫu (có 5 slide dùng pattern) | Mọi bài thuyết trình |
 | **D** | [**Prompt Kit**](Vieclam24h_Prompt_Kit.md) | Hướng dẫn cho AI cách tạo ảnh đúng brand | Đính kèm cho ChatGPT / Gemini khi nhờ tạo ảnh |
 
 <sub>Các file đuôi <b>.md</b> là file chữ thường: bấm vào tên là đọc được ngay trên trang này, tải về thì mở được bằng mọi máy và đính kèm được vào mọi AI.</sub>

@@ -1,14 +1,14 @@
 # Vieclam24h — Quy chuẩn slide thuyết trình 2026
 
-> Phiên bản: **1.1 · Tháng 10/2026**
+> Phiên bản: **1.2 · cập nhật 11.11.2026** (gom chữ về 7 cỡ cố định)
 > Áp dụng cho mọi file thuyết trình mang tên Vieclam24h: báo cáo thị trường, đề xuất, kế hoạch, họp nội bộ, thuyết trình với đối tác.
-> Dựa trên **Brand Guideline 2026** và file mẫu **Vieclam24h_Slide_Template.pptx**.
+> Dựa trên **Brand Guideline 2026** và file mẫu **Vieclam24h_Slide_Template_11-11-2026.pptx**.
 
 ---
 
 ## 0. Bốn quy tắc bắt buộc
 
-1. **Không dùng AI để làm slide → bắt buộc dùng file mẫu** `Vieclam24h_Slide_Template.pptx`. Không tự tạo slide trắng, không dùng theme có sẵn của Google Slides / PowerPoint.
+1. **Không dùng AI để làm slide → bắt buộc dùng file mẫu** `Vieclam24h_Slide_Template_11-11-2026.pptx`. Không tự tạo slide trắng, không dùng theme có sẵn của Google Slides / PowerPoint.
 2. **Có dùng AI → đính kèm file quy chuẩn này** để AI xếp nội dung vào đúng slide mẫu, rồi đổ nội dung vào file mẫu (xem mục 9).
 3. **Tên thương hiệu luôn viết là `Vieclam24h`**: chữ V viết hoa, liền, không dấu.
 4. **AI không được sửa nội dung khi áp template.** AI chỉ chọn slide mẫu và xếp chữ vào đúng chỗ: giữ nguyên **từng chữ, từng con số, thứ tự ý** của bản gốc. Thấy nội dung có vấn đề (sai tên thương hiệu, thiếu nguồn, quá dài, số liệu vênh…) thì **ghi vào danh sách Đề xuất riêng**, không tự sửa. Người làm slide đọc đề xuất và tự quyết định.
@@ -93,18 +93,21 @@ Tỷ lệ chung theo guideline: **~50% nền sáng · ~30% Purple · ~15% màu n
 
 | Cấp | Cỡ · Độ đậm | Màu | Ở đâu |
 |---|---|---|---|
-| Tiêu đề bìa | 34pt Bold | Trắng | Bìa |
-| Tiêu đề mở phần | 30pt Bold | Trắng | Mở phần (số phần 38pt Bold Cyan) |
-| Câu nói lớn | 26pt Bold | Trắng | Slide câu nói, nền tím |
+| Tiêu đề bìa | 40pt Bold | Trắng | Bìa |
+| Tiêu đề mở phần | 30pt Bold | Trắng | Mở phần (số phần 40pt Bold Cyan) |
+| Câu nói lớn | 30pt Bold | Trắng | Slide câu nói, nền tím |
 | Lời cảm ơn | 40pt Bold | Trắng | Slide kết |
-| **Tiêu đề slide** | **19pt Bold** | Purple | Mọi slide nội dung |
+| **Tiêu đề slide** | **24pt Bold** | Purple | Mọi slide nội dung |
 | Kicker | 8pt Bold, VIẾT HOA | Purple | Trên tiêu đề: `số phần · CHỦ ĐỀ` |
-| Số lớn | 18–34pt Bold | Purple / Cyan / Ink | Thẻ số liệu, cột Nhận định |
-| Tiêu đề thẻ / cột | 11–14pt Bold | Purple | Hai cột, thẻ, so sánh |
-| Nội dung slide chữ | **≥ 11pt** Regular | Ink | Slide chữ, hai cột, ảnh + chữ |
-| Nội dung trong thẻ | 8,5–10pt | Ink | Mô tả số liệu, bước, khuyến nghị |
-| Nguồn | 6,5pt | Grey | Chân slide |
-| Câu nhấn Oooh Baby | 26–30pt | Cyan | **Chỉ** bìa, mở phần, miễn trừ, kết |
+| Số lớn | 30pt Bold (slide điểm nhấn) · 24pt Bold (trong thẻ) | Purple / Cyan / Ink | Thẻ số liệu, cột Nhận định |
+| Tiêu đề cột | 18pt Bold | Purple | Hai cột, so sánh phương án |
+| Tiêu đề thẻ | 14pt Bold | Purple | Thẻ, bước, khuyến nghị |
+| Nội dung slide chữ | **14pt** Regular | Ink | Slide chữ, hai cột, ảnh + chữ |
+| Nội dung trong thẻ | 11pt | Ink | Mô tả số liệu, bước, khuyến nghị, bảng |
+| Nguồn | 8pt | Grey | Chân slide |
+| Câu nhấn Oooh Baby | 30pt | Cyan | **Chỉ** bìa, mở phần, miễn trừ, kết |
+
+**Thang chữ cố định: 8 · 11 · 14 · 18 · 24 · 30 · 40.** Chỉ dùng 7 cỡ này. Không dùng cỡ lẻ (8,5 · 9,5 · 12,5 · 19…): hai cỡ chênh nửa điểm nhìn như lỗi, phân cấp bị rời rạc.
 
 **Quy tắc:**
 - Mỗi slide tối đa **3 cấp chữ** (không tính kicker và nguồn).
@@ -238,7 +241,7 @@ Thiết kế vẫn làm trong file mẫu. Không dùng slide do AI tự thiết 
 | Đặt từng đoạn vào đúng ô: tiêu đề, nội dung, số liệu, nguồn | Thêm số liệu, ví dụ, câu chữ không có trong bản gốc |
 | Ghi Đề xuất cho chỗ có vấn đề | Tự sửa lỗi, kể cả lỗi chính tả hay sai tên thương hiệu |
 
-**Bước 1:** Đính kèm file này (`Vieclam24h_Slide_Guideline_2026.md`) và tài liệu nguồn **được phép chia sẻ** vào khung chat.
+**Bước 1:** Đính kèm file này (`Vieclam24h_Slide_Guideline_11-11-2026.md`) và tài liệu nguồn **được phép chia sẻ** vào khung chat.
 
 **Bước 2:** Copy câu lệnh, sửa phần `[ ]`:
 
