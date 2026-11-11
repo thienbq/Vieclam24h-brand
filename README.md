@@ -29,7 +29,7 @@
 | **Job card, Việc Xịn, Welcome Onboard, Vinh danh** | [Web · Công cụ & mẫu](https://vieclam24h-brandguideline.web.app/#material): điền chữ, tải ảnh |
 | **Mã màu, giọng văn** | [Brand Guideline](Vieclam24h_Brand_Guideline_2026.md), đọc ngay trên trang |
 
-<sub>Mới vào? Đọc mục 01 và 02 mất 2 phút. Sửa slide lúc 11 giờ đêm mất nhiều hơn.</sub>
+<sub>Mới vào? Đọc mục 01 và 02 trước. Phần còn lại, cần gì tra nấy.</sub>
 
 <br>
 
