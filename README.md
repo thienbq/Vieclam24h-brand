@@ -3,8 +3,8 @@
 </p>
 
 <p align="center">
-  Một repo, đủ đồ nghề để mọi thứ mang tên Vieclam24h ra cùng một chất: từ mã màu đến slide báo cáo quý.<br>
-  <sub>Không cần biết code. Không cần rành AI. Chỉ cần mở đúng file.</sub>
+  Đủ đồ nghề để mọi thứ mang tên Vieclam24h ra cùng một chất, từ mã màu tới slide báo cáo quý.<br>
+  <sub>Không cần biết code. Mở đúng file là xong nửa việc.</sub>
 </p>
 
 <br>
@@ -13,14 +13,14 @@
 
 ## Hôm nay bạn cần gì?
 
-| Việc cần làm | Xem mục | File cần dùng |
-|---|---|---|
-| **Làm slide thuyết trình** | [Mục 03 · Làm slide](#03--làm-slide) | Slide Template (+ Slide Guideline nếu dùng AI) |
-| **Viết caption, thông báo, nội dung** | [Mục 04 · Viết chữ với AI](#04--viết-chữ-với-ai) | Brand Guideline |
-| **Tạo ảnh bài đăng** | [Mục 05 · Tạo ảnh với AI](#05--tạo-ảnh-với-ai) | Prompt Kit + logo + brief |
-| **Tra mã màu, logo, font, giọng văn** | Mở [Brand Guideline](Vieclam24h_Brand_Guideline_2026.md) đọc ngay trên trang | — |
+| Cần làm | Đi tới |
+|---|---|
+| **Slide thuyết trình** | [03 · Làm slide](#03--làm-slide) |
+| **Caption, thông báo, nội dung** | [04 · Viết chữ với AI](#04--viết-chữ-với-ai) |
+| **Ảnh bài đăng** | [05 · Tạo ảnh với AI](#05--tạo-ảnh-với-ai) |
+| **Mã màu, logo, font, giọng văn** | [Brand Guideline](Vieclam24h_Brand_Guideline_2026.md), đọc ngay trên trang |
 
-<sub>Mới vào? Dành 2 phút cho mục 01 và 02. Rẻ hơn nhiều so với một lần sửa slide lúc 11 giờ đêm.</sub>
+<sub>Mới vào? Đọc mục 01 và 02 mất 2 phút. Sửa slide lúc 11 giờ đêm mất nhiều hơn.</sub>
 
 <br>
 
@@ -28,15 +28,15 @@
 
 ## 01 · Ba điều không thương lượng
 
-**① Tên chỉ có một cách viết: `Vieclam24h`**<br>
-V viết hoa, viết liền, không dấu. Không nickname, không viết tắt cho nhanh. Slide, bài đăng, email hay tên file đều vậy.<br>
+**① `Vieclam24h`. Một cách viết, mọi nơi.**<br>
+V hoa, viết liền, không dấu. Slide, bài đăng, email, tên file: như nhau.<br>
 <sub>❌ VL24H · VL24 · vieclam24h · VIECLAM24H · Việc Làm 24h · ViecLam24h</sub>
 
-**② Làm slide bằng cơm? File mẫu là điểm xuất phát, không phải gợi ý.**<br>
-Mọi bài thuyết trình bắt đầu từ file mẫu [`Vieclam24h_Slide_Template_11-11-2026.pptx`](Vieclam24h_Slide_Template_11-11-2026.pptx). Không làm trên slide trắng, không dùng mẫu có sẵn của Google Slides hay PowerPoint.
+**② Slide bắt đầu từ file mẫu, không từ trang trắng.**<br>
+[`Vieclam24h_Slide_Template_11-11-2026.pptx`](Vieclam24h_Slide_Template_11-11-2026.pptx) là điểm xuất phát. Mẫu có sẵn của Google Slides, PowerPoint: để dành cho công ty khác.
 
-**③ Dùng AI? Cho nó đọc bài trước khi giao việc.**<br>
-Đính kèm đúng file quy chuẩn (bảng bên dưới) rồi mới ra đề. Khi áp template, **AI không được sửa nội dung của bạn**, chỉ được ghi đề xuất. AI làm nhanh, **đội thiết kế duyệt kỹ**: chưa duyệt thì chưa gửi, chưa đăng.
+**③ AI làm nhanh, người duyệt kỹ.**<br>
+Cho AI đọc file quy chuẩn rồi mới giao việc. AI **không sửa nội dung của bạn**, chỉ ghi đề xuất. Đội thiết kế chưa duyệt thì chưa gửi, chưa đăng.
 
 <br>
 
@@ -44,17 +44,17 @@ Mọi bài thuyết trình bắt đầu từ file mẫu [`Vieclam24h_Slide_Templ
 
 ## 02 · Đồ nghề trong hộp
 
-| | File | Là gì | Dùng khi |
-|:---:|---|---|---|
-| **A** | [**Brand Guideline 2026**](Vieclam24h_Brand_Guideline_2026.md) | Toàn bộ quy chuẩn thương hiệu | Tra logo, màu, font, giọng văn, Chớp AI · Đính kèm cho AI khi nhờ viết chữ |
-| **A+** | [**Brand Guideline 2026 · PDF**](Vieclam24h_Brand_Guideline_2026_Draft_19.10.pdf) | Bản trình bày đầy đủ hình ảnh, **bản nháp cập nhật 19.10.2026, chưa final** | Xem logo, màu, hình mẫu bằng mắt · Không đính kèm cho AI (file nặng), dùng file A thay thế |
-| **B** | [**Slide Guideline 2026 · cập nhật 11.11.2026**](Vieclam24h_Slide_Guideline_11-11-2026.md) | Quy chuẩn làm slide | Đính kèm cho AI khi nhờ soạn slide · Tra cỡ chữ, bố cục |
-| **C** | [**Slide Template · cập nhật 11.11.2026**](Vieclam24h_Slide_Template_11-11-2026.pptx) | File mẫu thuyết trình, 30 slide mẫu (có 5 slide dùng pattern) | Mọi bài thuyết trình |
-| **D** | [**Prompt Kit**](Vieclam24h_Prompt_Kit.md) | Hướng dẫn cho AI cách tạo ảnh đúng brand | Đính kèm cho ChatGPT / Gemini khi nhờ tạo ảnh |
+| | File | Dùng khi |
+|:---:|---|---|
+| **A** | [**Brand Guideline 2026**](Vieclam24h_Brand_Guideline_2026.md) | Tra logo, màu, font, giọng văn, Chớp AI · Đính kèm cho AI khi nhờ viết chữ |
+| **A+** | [**Brand Guideline 2026 · PDF**](Vieclam24h_Brand_Guideline_2026_Draft_19.10.pdf) | Xem bằng mắt · Bản nháp 19.10.2026, chưa final · File nặng, đừng gửi cho AI |
+| **B** | [**Slide Guideline · 11.11.2026**](Vieclam24h_Slide_Guideline_11-11-2026.md) | Tra cỡ chữ, bố cục · Đính kèm cho AI khi nhờ soạn slide |
+| **C** | [**Slide Template · 11.11.2026**](Vieclam24h_Slide_Template_11-11-2026.pptx) | Mọi bài thuyết trình · 30 slide mẫu |
+| **D** | [**Prompt Kit**](Vieclam24h_Prompt_Kit.md) | Đính kèm cho ChatGPT / Gemini khi nhờ tạo ảnh |
 
-<sub>Các file đuôi <b>.md</b> là file chữ thường: bấm vào tên là đọc được ngay trên trang này, tải về thì mở được bằng mọi máy và đính kèm được vào mọi AI.</sub>
+<sub>File <b>.md</b> là file chữ: bấm tên là đọc được, máy nào cũng mở được, AI nào cũng nhận.</sub>
 
-**Tải về máy, hai cú bấm:** bấm vào tên file → bấm nút tải xuống ⤓ ở góc phải (cạnh chữ *Raw*).
+**Tải về:** bấm tên file → bấm ⤓ ở góc phải (cạnh chữ *Raw*).
 
 <p align="center">
   <img src="assets/guide-download.png" alt="Cách tải file: bấm tên file, rồi bấm biểu tượng tải xuống cạnh chữ Raw" width="100%">
@@ -66,37 +66,33 @@ Mọi bài thuyết trình bắt đầu từ file mẫu [`Vieclam24h_Slide_Templ
 
 ## 03 · Làm slide
 
-Hai lối đi, chung một điểm về: **file mẫu Vieclam24h**.<br>
-<sub>👇 Bấm vào từng dòng bên dưới để mở hướng dẫn.</sub>
+Hai lối đi, cùng về một đích: **file mẫu Vieclam24h**.
 
 <details>
-<summary><b>▸ Cách 1 · Tự làm, không dùng AI</b> &nbsp;<sub>(bấm để mở)</sub></summary>
+<summary><b>▸ Cách 1 · Tự làm</b> &nbsp;<sub>(bấm để mở)</sub></summary>
 
 <br>
 
-1. Tải file **C · Slide Template** về máy (xem cách tải ở mục 02).
-2. Mở **Google Drive** → bấm **Mới** → **Tải tệp lên** → chọn file vừa tải.
-3. Bấm đúp vào file trên Drive → chọn **Mở bằng Google Trang trình bày** → menu **Tệp** → **Lưu dưới dạng Google Trang trình bày**.
-4. Đổi tên file: `Vieclam24h_[Tên nội dung]_[MM.YYYY]`, ví dụ `Vieclam24h_Bao-cao-Q3_10.2026`.
-5. Cần dạng slide nào → chuột phải vào slide mẫu đó → **Nhân bản trang trình bày** → sửa chữ trên bản sao.<br>
-   Thay ảnh: chuột phải vào ảnh → **Thay hình ảnh**.
-6. Xoá slide hướng dẫn (slide số 2) và các slide mẫu không dùng.
-7. Soát theo danh sách ở **mục 10** của file **B · Slide Guideline** → **Tệp** → **Tải xuống** → **Tài liệu PDF** để gửi.
+1. Tải **C · Slide Template**.
+2. Google Drive → **Mới** → **Tải tệp lên** → bấm đúp file → **Mở bằng Google Trang trình bày** → **Tệp** → **Lưu dưới dạng Google Trang trình bày**.
+3. Đặt tên: `Vieclam24h_[Nội dung]_[MM.YYYY]`, ví dụ `Vieclam24h_Bao-cao-Q3_10.2026`.
+4. Cần dạng slide nào → chuột phải slide mẫu → **Nhân bản** → sửa trên bản sao. Đổi ảnh: chuột phải → **Thay hình ảnh**.
+5. Xoá slide hướng dẫn (số 2) và slide mẫu không dùng.
+6. Soát theo **mục 10** file **B** → **Tệp** → **Tải xuống** → **PDF**.
 
-<sub>Dùng PowerPoint thay vì Google Slides? Cài trước 2 font <b>Lexend</b> và <b>Oooh Baby</b> (miễn phí tại fonts.google.com), nếu không chữ sẽ bị đổi sang font khác.</sub>
+<sub>Dùng PowerPoint? Cài trước font <b>Lexend</b> và <b>Oooh Baby</b> (miễn phí, fonts.google.com), không thì chữ tự đổi font.</sub>
 
 </details>
 
 <details>
-<summary><b>▸ Cách 2 · Nhờ AI xếp nội dung vào slide mẫu, rồi đổ vào file mẫu</b> &nbsp;<sub>(bấm để mở)</sub></summary>
+<summary><b>▸ Cách 2 · Nhờ AI xếp nội dung vào slide mẫu</b> &nbsp;<sub>(bấm để mở)</sub></summary>
 
 <br>
 
-AI **xếp nội dung của bạn vào đúng slide mẫu, không sửa một chữ nào**. Thấy chỗ có vấn đề thì AI ghi ra một danh sách **Đề xuất** riêng, bạn đọc rồi tự quyết. Slide do AI tự thiết kế thì để AI tự xem.
+AI xếp chữ của bạn vào đúng slide mẫu, **không sửa một chữ**. Thấy chỗ nên sửa thì ghi riêng thành **Đề xuất**, bạn chốt.
 
-1. Tải file **B · Slide Guideline** về máy.
-2. Mở ChatGPT, Gemini hoặc Claude → bấm **+** hoặc 📎 cạnh ô chat → chọn file vừa tải.
-3. Copy câu lệnh dưới đây (bấm biểu tượng 📋 ở góc phải khung), dán vào ô chat, sửa phần trong `[ ]`, rồi gửi:
+1. Tải **B · Slide Guideline** → đính kèm vào ChatGPT, Gemini hoặc Claude (nút **+** hoặc 📎).
+2. Dán câu lệnh, sửa phần `[ ]`, gửi:
 
 ```
 Đọc file quy chuẩn slide Vieclam24h đính kèm. Xếp nội dung dưới đây vào các slide mẫu ở mục 6 cho bài thuyết trình dành cho [người nghe].
@@ -107,10 +103,10 @@ PHẦN B: Đề xuất, không tự áp dụng (bảng: Slide · Vấn đề · 
 Nội dung: [dán nội dung]
 ```
 
-4. Đọc **Phần B**, tự chọn đề xuất nào nên sửa. Bạn là người chốt nội dung, không phải AI.
-5. Làm tiếp **Cách 1** từ bước 1: nhân bản đúng slide mẫu AI chọn, dán nội dung Phần A vào.
+3. Đọc **Phần B**, tự chọn sửa gì.
+4. Làm tiếp **Cách 1**: nhân bản đúng slide AI chọn, dán **Phần A** vào.
 
-<sub>Câu lệnh đầy đủ và các câu lệnh góp ý khác: mục 9 của file B · Slide Guideline.</sub>
+<sub>Thêm câu lệnh góp ý: mục 9 file B.</sub>
 
 </details>
 
@@ -120,19 +116,18 @@ Nội dung: [dán nội dung]
 
 ## 04 · Viết chữ với AI
 
-**ChatGPT, Gemini hay Claude** đều được. Luật bất thành văn: **cho AI đọc guideline trước, rồi mới giao việc.** AI chấp bút, bạn là người duyệt cuối.
+ChatGPT, Gemini hay Claude đều được. Cho AI đọc guideline trước, rồi mới giao việc. AI chấp bút, bạn duyệt cuối.
 
 <p align="center">
   <img src="assets/demo-ai-text.png" alt="Demo: đính kèm Brand Guideline, dán câu lệnh, AI trả về caption" width="100%">
 </p>
 
-1. Tải file **A · Brand Guideline** về máy.
-2. Mở AI → bấm **+** hoặc 📎 cạnh ô chat → chọn file vừa tải.
-3. Mở danh sách câu lệnh bên dưới → copy câu phù hợp → dán vào ô chat → sửa phần trong `[ ]` → gửi.
-4. Đọc lại từng chữ trước khi dùng. AI viết nhanh, nhưng dấu tiếng Việt thì thỉnh thoảng trượt.
+1. Đính kèm **A · Brand Guideline** vào ô chat.
+2. Chọn câu lệnh bên dưới, sửa phần `[ ]`, gửi.
+3. Đọc lại từng chữ. AI viết nhanh, dấu tiếng Việt thì thỉnh thoảng trượt.
 
 <details>
-<summary><b>▸ Câu lệnh mẫu để copy</b> &nbsp;<sub>(bấm để mở)</sub></summary>
+<summary><b>▸ Câu lệnh mẫu</b> &nbsp;<sub>(bấm để mở)</sub></summary>
 
 <br>
 
@@ -146,7 +141,7 @@ Nội dung: [dán nội dung]
 Đọc file brand guideline đính kèm. Viết 3 phương án thông báo app để báo người dùng [nội dung]. Tiêu đề tối đa 40 ký tự, nội dung tối đa 120 ký tự.
 ```
 
-**Soát một đoạn văn đã viết**
+**Soát đoạn văn đã viết**
 ```
 Đọc file brand guideline đính kèm. Kiểm tra đoạn văn dưới đây có đúng giọng văn Vieclam24h và viết đúng tên thương hiệu "Vieclam24h" không, chỉ ra chỗ chưa đúng và viết lại giúp tôi:
 [dán đoạn văn]
@@ -165,23 +160,20 @@ Nội dung: [dán nội dung]
 
 ## 05 · Tạo ảnh với AI
 
-Ba file, một câu lệnh, hai ảnh. Dùng **ChatGPT hoặc Gemini** (Claude không tạo được ảnh). Nhớ đăng nhập; tài khoản miễn phí có thể bị giới hạn số ảnh mỗi ngày.
+Ba file, một câu lệnh, hai ảnh. Dùng **ChatGPT hoặc Gemini** (Claude không vẽ ảnh).
 
 <p align="center">
   <img src="assets/demo-ai-image.png" alt="Demo: kéo Prompt Kit, logo và brief vào chat (thêm ảnh mẫu Chớp nếu cần), AI trả về 2 ảnh và caption" width="100%">
 </p>
 
-1. Chuẩn bị 3 thứ:
-   - File **D · Prompt Kit** (tải ở mục 02)
-   - **File logo PNG**: xin đội thiết kế
-   - **Brief** (nội dung bài đăng): ảnh chụp, hoặc gõ thẳng headline, lương, địa điểm vào ô chat
-2. Kéo tất cả vào khung chat, gõ: `Làm theo file prompt-kit cho brief này.`
-3. AI trả về **2 ảnh** (1 ảnh không chữ, 1 ảnh có chữ) và **caption**. Gửi cả 3 cho đội thiết kế duyệt.
+1. Kéo vào ô chat: **D · Prompt Kit** + **logo PNG** (xin đội thiết kế) + **brief** (ảnh chụp hoặc gõ headline, lương, địa điểm).
+2. Gõ: `Làm theo file prompt-kit cho brief này.`
+3. Nhận **2 ảnh** (có chữ, không chữ) + **caption** → gửi đội thiết kế duyệt.
 
-**Muốn Chớp góp mặt?** Thêm **ảnh mẫu Chớp** (xin đội thiết kế) và giao vai rõ ràng trong câu lệnh. Chớp phải có việc để làm, không đứng cho đủ hình:<br>
+**Cần Chớp góp mặt?** Thêm ảnh mẫu Chớp và giao việc cụ thể. Chớp đi làm, không đứng cho đủ hình:<br>
 `Làm theo file prompt-kit cho brief này, có Chớp, Chớp [đang làm gì, ví dụ: cầm bảng lương chỉ vào headline].`
 
-<sub>Ảnh chưa ưng (sai chữ, sai Chớp, AI tự vẽ logo…)? Mở file D · Prompt Kit, mục 6 <i>Câu sửa nhanh</i>, copy câu phù hợp gõ tiếp vào cùng khung chat.</sub>
+<sub>Sai chữ, sai Chớp, AI tự vẽ logo? Mục 6 <i>Câu sửa nhanh</i> trong file D có sẵn câu để gõ tiếp.</sub>
 
 <br>
 
@@ -193,8 +185,8 @@ Ba file, một câu lệnh, hai ảnh. Dùng **ChatGPT hoặc Gemini** (Claude k
   <img src="assets/colors.png" alt="Bảng màu Vieclam24h" width="100%">
 </p>
 
-Tím giữ nhận diện, cyan kéo ánh nhìn, nền sáng chừa chỗ thở. Tỷ lệ trên một thiết kế: **~50% nền sáng · ~30% Purple · ~15% màu nhấn.**<br>
-Thông số đầy đủ (RGB, CMYK, độ tương phản): mục 3 của file **A · Brand Guideline**.
+Tím giữ nhận diện, cyan kéo ánh nhìn, nền sáng chừa chỗ thở: **~50% nền sáng · ~30% Purple · ~15% màu nhấn.**<br>
+<sub>RGB, CMYK, độ tương phản: mục 3 file A.</sub>
 
 <br>
 
@@ -202,17 +194,17 @@ Thông số đầy đủ (RGB, CMYK, độ tương phản): mục 3 của file *
 
 ## 07 · Bốn điều nên nhớ
 
-- **Dữ liệu nội bộ không đi chơi với AI.** Số liệu kinh doanh, thông tin khách hàng, ứng viên: giữ trong nhà.
-- **Logo chỉ có một bản chính chủ: file gốc.** Không để AI vẽ, không tự gõ lại.
-- **Đọc lại trước khi gửi.** Một chữ sai dấu đủ làm cả thiết kế mất điểm, nhất là tên thương hiệu.
-- **Bản mới nhất luôn ở đây.** File nằm trong máy bạn từ tháng trước có thể đã cũ.
+- **Dữ liệu nội bộ không đi chơi với AI.** Số kinh doanh, khách hàng, ứng viên: giữ trong nhà.
+- **Logo dùng file gốc.** Không để AI vẽ, không tự gõ lại.
+- **Đọc lại trước khi gửi.** Sai một dấu ở tên thương hiệu là cả thiết kế mất điểm.
+- **Bản mới nhất nằm ở đây.** Bản trong máy bạn từ tháng trước có thể đã cũ. Tên file có ngày cập nhật, nhìn là biết.
 
 <br>
 
 ---
 
 <p align="center">
-  <sub>Có trường hợp chưa nằm trong guideline, hoặc cần file logo, ảnh mẫu Chớp, font?</sub><br>
+  <sub>Gặp trường hợp guideline chưa nói tới, hoặc cần logo, ảnh Chớp, font?</sub><br>
   <sub><b>Hỏi đội thương hiệu trước, làm sau.</b></sub><br><br>
-  <sub>Vieclam24h · Brand Kit 1.2 · 10.2026</sub>
+  <sub>Vieclam24h · Brand Kit 1.3 · cập nhật 11.11.2026</sub>
 </p>
