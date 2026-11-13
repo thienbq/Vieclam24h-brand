@@ -56,7 +56,7 @@ Cho AI đọc file quy chuẩn rồi mới giao việc. AI **không sửa nội 
 | | File | Dùng khi |
 |:---:|---|---|
 | **A** | [**Brand Guideline 2026**](Vieclam24h_Brand_Guideline_2026.md) | Tra logo, màu, font, giọng văn, Chớp AI · Đính kèm cho AI khi nhờ viết chữ |
-| **A+** | [**Brand Guideline 2026 · PDF**](Vieclam24h_Brand_Guideline_2026_Draft_19.10.pdf) | Xem bằng mắt · Bản nháp 19.10.2026, chưa final · File nặng, đừng gửi cho AI |
+| **A+** | **Brand Guideline 2026 · PDF** | Xem bằng mắt · Lưu nội bộ, không để trên GitHub public · Xin bản mới nhất từ đội Design |
 | **B** | [**Slide Guideline · 11.11.2026**](Vieclam24h_Slide_Guideline_11-11-2026.md) | Tra cỡ chữ, bố cục · Đính kèm cho AI khi nhờ soạn slide |
 | **C** | [**Slide Template · 11.11.2026**](Vieclam24h_Slide_Template_11-11-2026.pptx) | Mọi bài thuyết trình · 30 slide mẫu |
 | **D** | [**Prompt Kit**](Vieclam24h_Prompt_Kit.md) | Đính kèm cho ChatGPT / Gemini khi nhờ tạo ảnh |
